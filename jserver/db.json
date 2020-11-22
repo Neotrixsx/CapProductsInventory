@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Moto",
+      "quantity": "100",
+      "price": "12000"
+    },
+    {
+      "id": 2,
+      "productName": "Samsung",
+      "quantity": "500",
+      "price": "13000"
+    },
+    {
+      "id": 3,
+      "productName": "Sony",
+      "quantity": "400",
+      "price": "10000"
+    },
+    {
+      "id": 4,
+      "productName": "Dell",
+      "quantity": "1000",
+      "price": "8000"
+    },
+    {
+      "productName": "LG Phone",
+      "quantity": "1000",
+      "price": "1245",
+      "id": 5
+    },
+    {
+      "productName": "5144",
+      "quantity": 65146,
+      "price": 6516,
+      "id": 6
+    }
+  ]
+}
